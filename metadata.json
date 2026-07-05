@@ -1,0 +1,8 @@
+{
+  "name": "Remix: EstateX",
+  "description": "A modern, premium full-stack real estate marketplace inspired by Airbnb and Zillow, with property searches, favorites, contact forms, and admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
